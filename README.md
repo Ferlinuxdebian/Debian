@@ -10,4 +10,4 @@ wget -qO- https://goo.gl/NJNoqi | bash
 
 ### Vídeo de demostração
 
-https://asciinema.org/a/krxRhZYt74e6mcsHIMIlecTq
+https://asciinema.org/a/krxRhZYt74e6mcsHIMIlecTqI
