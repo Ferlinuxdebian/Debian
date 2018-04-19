@@ -5,9 +5,9 @@ Esse script simples configura de forma rápida espelhos (repositórios) para o a
 ## Modo de usar
 
 Basta logar-se como root num terminal, copiar e colar a seguinte linha abaixo:
-
+```
 wget -qO- https://goo.gl/NJNoqi | bash
-
+```
 ### Vídeo de demostração
 
 https://asciinema.org/a/krxRhZYt74e6mcsHIMIlecTqI
